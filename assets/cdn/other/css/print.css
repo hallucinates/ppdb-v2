@@ -1,0 +1,25 @@
+body{
+	width: 100%;
+	margin: 0 auto;
+}
+
+#receipt{
+	margin-top: 0px;
+	width: 100%;
+	margin-right: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+/*.tableReceipt{
+	font-size: 100px;
+}*/
+
+.tgl{
+	padding-bottom: 15px;
+}
+
+.kasir{
+	float: right;
+}

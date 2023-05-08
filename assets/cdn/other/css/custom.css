@@ -1,0 +1,42 @@
+.table-active {
+	color: inherit;
+	background-color: #eee;
+}
+
+.table-success {
+	color: #fff;
+	background-color: #4caf50;
+}
+
+.table-info {
+	color: #fff;
+	background-color: #00bcd4;
+}
+
+.table-warning {
+	color: #fff;
+	background-color: #ff9800;
+}
+
+.table-danger {
+	color: #fff;
+	background-color: #f44336;
+}
+
+#rounded-cornerx {
+	margin: 0px;
+	text-align: left;
+	border-collapse: collapse;
+}
+
+#rounded-cornerx td {
+	padding: 6px;
+	background: #b7ffa6;
+	border-top: 1px solid #fff;
+	color: #669;
+	font-size: 12px;
+}
+
+#rounded-cornerx tr:hover td {
+	background: #7eff60;
+}
